@@ -1,0 +1,20 @@
+{
+    "servers": [
+        {
+            "token": "",
+            "guildId": "",
+            "message": ""
+        },
+        {
+            "token": "",
+            "guildId": "",
+            "message": ""
+        },
+        // Add more server configurations as needed
+        {
+            "token": "",
+            "guildId": "",
+            "message": ""
+        }
+    ]
+}
