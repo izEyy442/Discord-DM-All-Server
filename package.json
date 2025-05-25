@@ -1,0 +1,12 @@
+{
+  "name": "discord-dm-all",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends DMs to server members",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
